@@ -22,7 +22,6 @@ machiOS doesn't do anything
 
 | feature | what it does |
 |---|---|
-| **os** | doesn't work |
-## desktop environments
+| **machiOS** | doesn't work |
 
 </div>
