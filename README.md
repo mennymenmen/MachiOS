@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="mochi-logo.png" alt="MochiOS" width="128">
+  <img src="mochi-logo.png" alt="logo here" width="128">
   <br>
   <small><i>made by my friend, men</i></small>
   <br><br>
