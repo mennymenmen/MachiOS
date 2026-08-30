@@ -3,7 +3,7 @@
   <br>
   <small><i>made by my friend, men</i></small>
   <br><br>
-  <h1>MochiOS</h1>
+  <h1>MachiOS</h1>
   <p><strong>mochiOS based linux distro</strong></p>
   <p>
     <a href="https://github.com/iluxz/MochiOS"><img src="https://img.shields.io/github/actions/workflow/status/iluxz/MochiOS/build.yml?branch=main&label=build&logo=github" alt="Build"></a>
