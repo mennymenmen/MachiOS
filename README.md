@@ -1,5 +1,5 @@
 # MachiOS
 
-it doesn't do anything. it never did.
+it doesn't do anything, it never did
 
--men, probably
+-men
