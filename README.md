@@ -19,4 +19,8 @@ machiOS doesn't do anything
 |---|---|
 | **machiOS** | doesn't work |
 
+
+ok seriously tho this is a joke distro pls dont take this seriously yea bye bye bbye
+dont take serioulsy its a joke it genuinely doesnt even work
+
 </div>
